@@ -1,0 +1,9 @@
+fastapi==0.116.1
+mongoengine==0.29.1,<1
+uvicorn==0.23.2
+pydantic==2.11.7
+python-dotenv==1.1.1
+Requests==2.32.4
+starlette==0.47.2
+python-multipart==0.0.19
+pytest==8.4.1
